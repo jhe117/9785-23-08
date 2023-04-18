@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:52:10.571Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4RROUD5o-i7prtAlgQos" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:56:01.695Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="y_g6UN_-YAxSAsFfDUBA" version="21.1.8" type="github">
   <diagram name="Page-1" id="Vp01nbwkdXPFPPlGO69x">
     <mxGraphModel dx="545" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,6 +13,9 @@
         <mxCell id="3" value="Research" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="93" y="84" width="58" height="34" as="geometry" />
         </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4" value="Project" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="387" y="84" width="58" height="34" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="6" value="Research paper review" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="74" y="157" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8" target="Kyetm04AOQO5NOnXj7u3-40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="Project Planning" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="368" y="145" width="97" height="34" as="geometry" />
@@ -85,32 +91,50 @@
         <mxCell id="Kyetm04AOQO5NOnXj7u3-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Kyetm04AOQO5NOnXj7u3-26" target="Kyetm04AOQO5NOnXj7u3-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-43" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="366" y="204" width="159" height="357" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-44" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="321" y="381" width="194" height="215" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Subtask 2.2" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-43" vertex="1">
-          <mxGeometry y="322.4188034188034" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="9" value="Conduct exploratory data analysis to understand the characteristics of the data" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-44" vertex="1">
+          <mxGeometry y="173.22857142857148" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-34" value="Subtask 2.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry y="274.6153846153846" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-34" value="Clean and pre-process data for analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+          <mxGeometry y="115.48571428571427" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-35" value="Subtask 2.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" y="226.8119658119658" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-35" value="Gather relevant data related to electricity demand and consumption" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+          <mxGeometry x="3.9191919191918907" y="57.74285714285716" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-36" value="Define project scope and objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-40" value="Project Installation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+          <mxGeometry x="3.9191919191918907" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-37" value="Conduct a feasibility study" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" y="43.73504273504273" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-46" value="Train and test machine learning models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="787.7028571428572" width="189.10101010101008" height="44.29714285714285" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-38" value="Develop a project plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" y="87.47008547008546" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-47" value="Identify relevant features and predictors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="726.4685714285714" width="189.10101010101008" height="44.29714285714285" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-39" value="Identify project stakeholders and communication plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" y="131.2051282051282" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-48" value="Develop machine learning models for forecasting electricity demand" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="321.8989898989899" y="665.2342857142858" width="189.10101010101008" height="44.29714285714285" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-40" value="Subtask 2.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-43">
-          <mxGeometry x="3.212121212121212" y="179.008547008547" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-49" value="SuIdentify relevant features that affect electricity consumption&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="321.8989898989899" y="604" width="189.10101010101008" height="44.29714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-50" value="Select optimal model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="318" y="850.7028571428572" width="189.10101010101008" height="44.29714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-52" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="208.00212121212118" y="193" width="155.7878787878788" height="165.78632478632477" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-36" value="Define project scope and objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+          <mxGeometry width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-37" value="Conduct a feasibility study" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+          <mxGeometry y="43.735042735042725" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-38" value="Develop a project plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+          <mxGeometry y="87.47008547008545" width="155.78787878787878" height="34.58119658119658" as="geometry" />
+        </mxCell>
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-39" value="Identify project stakeholders and communication plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+          <mxGeometry y="131.20512820512818" width="155.78787878787878" height="34.58119658119658" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
