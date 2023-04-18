@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:44:04.557Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.1.8" etag="dpMVagwIBk_YQWly_flL" type="github">
+  <diagram name="Page-1" id="Vp01nbwkdXPFPPlGO69x">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="WBS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="394" width="45" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="Task 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="93" y="84" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="Task 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="387" y="84" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="Task 3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="681" y="84" width="58" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="Subtask 1.1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="Subtask 1.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="147" y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Subtask 2.1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="294" y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="Subtask 2.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="441" y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Subtask 3.1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="589" y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="Subtask 3.2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="736" y="167" width="97" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.00703125;exitY=0.587341067613324;entryX=0.5021551724137931;entryY=-0.014705882352941176;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="122" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49722222222222223;exitY=0.9852941176470589;entryX=0.5064655172413793;entryY=-0.014705882352941176;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0014756944444445;exitY=0.587341067613324;entryX=0.5107758620689655;entryY=-0.014705882352941176;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="711" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.001818426724137931;exitY=0.9658704364286069;entryX=0.5006443298969072;entryY=0;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="49" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0061287715517242;exitY=0.9658704364286069;entryX=0.5019329896907216;entryY=0;" edge="1" parent="1" source="3" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="196" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.002491918103448276;exitY=0.9658704364286069;entryX=0.5032216494845361;entryY=0;" edge="1" parent="1" source="4" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="343" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0104391163793103;exitY=0.9658704364286069;entryX=0.5045103092783505;entryY=0;" edge="1" parent="1" source="4" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.006802262931034483;exitY=0.9658704364286069;entryX=0.4954896907216495;entryY=0;" edge="1" parent="1" source="5" target="10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="637" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1.0147494612068966;exitY=0.9658704364286069;entryX=0.49677835051546393;entryY=0;" edge="1" parent="1" source="5" target="11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="784" y="142" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
