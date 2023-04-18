@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2023-04-18T03:59:10.665Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="tRYmTkYdPwClgGUx-pZw" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-18T03:59:21.844Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="3BfGaust31z19igv6bbQ" version="17.1.3" type="github">
   <diagram name="Page-1" id="Vp01nbwkdXPFPPlGO69x">
-    <mxGraphModel dx="545" dy="988" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1130" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="WBS" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="394" width="45" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="3" target="6">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="3" target="6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Research" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
@@ -25,11 +25,11 @@
         <mxCell id="5" value="Project Management" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="681" y="84" width="104" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="6" target="Kyetm04AOQO5NOnXj7u3-24">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-31" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="6" target="Kyetm04AOQO5NOnXj7u3-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6" value="Define the research question or problem statement" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="58.25" y="167" width="120.5" height="46" as="geometry" />
+          <mxGeometry x="55" y="167" width="120.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="Kyetm04AOQO5NOnXj7u3-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="8" target="Kyetm04AOQO5NOnXj7u3-40">
           <mxGeometry relative="1" as="geometry" />
@@ -63,37 +63,37 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Kyetm04AOQO5NOnXj7u3-24" target="Kyetm04AOQO5NOnXj7u3-26">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-32" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Kyetm04AOQO5NOnXj7u3-24" target="Kyetm04AOQO5NOnXj7u3-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-24" value="Identify research engines, determine appropriate keywords" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-24" value="Identify research engines, determine appropriate keywords" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="52.5" y="253" width="127" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Kyetm04AOQO5NOnXj7u3-26" target="Kyetm04AOQO5NOnXj7u3-28">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-33" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Kyetm04AOQO5NOnXj7u3-26" target="Kyetm04AOQO5NOnXj7u3-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-26" value="Conduct initial research, screen the research results." style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-26" value="Conduct initial research, screen the research results." style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="43" y="340" width="146" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-28" value="Retrieve and organise relevant articles" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-28" value="Retrieve and organise relevant articles" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="55" y="423" width="122" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="Kyetm04AOQO5NOnXj7u3-26" target="Kyetm04AOQO5NOnXj7u3-26">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-29" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Kyetm04AOQO5NOnXj7u3-26" target="Kyetm04AOQO5NOnXj7u3-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-44" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-44" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="321" y="381" width="194" height="215" as="geometry" />
         </mxCell>
         <mxCell id="9" value="Conduct exploratory data analysis to understand the characteristics of the data" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-44" vertex="1">
           <mxGeometry y="173.22857142857148" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-34" value="Clean and pre-process data for analysis" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-34" value="Clean and pre-process data for analysis" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-44" vertex="1">
           <mxGeometry y="115.48571428571427" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-35" value="Gather relevant data related to electricity demand and consumption" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-35" value="Gather relevant data related to electricity demand and consumption" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-44" vertex="1">
           <mxGeometry x="3.9191919191918907" y="57.74285714285716" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-40" value="Project Installation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-44">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-40" value="Project Installation" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-44" vertex="1">
           <mxGeometry x="3.9191919191918907" width="190.08080808080803" height="41.77142857142856" as="geometry" />
         </mxCell>
         <mxCell id="Kyetm04AOQO5NOnXj7u3-46" value="Train and test machine learning models" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -111,25 +111,25 @@
         <mxCell id="Kyetm04AOQO5NOnXj7u3-50" value="Select optimal model" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="318" y="850.7028571428572" width="189.10101010101008" height="44.29714285714285" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-52" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-52" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="208.00212121212118" y="193" width="155.7878787878788" height="165.78632478632477" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-36" value="Define project scope and objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-36" value="Define project scope and objectives" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-52" vertex="1">
           <mxGeometry width="155.78787878787878" height="34.58119658119658" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-37" value="Conduct a feasibility study" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-37" value="Conduct a feasibility study" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-52" vertex="1">
           <mxGeometry y="43.735042735042725" width="155.78787878787878" height="34.58119658119658" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-38" value="Develop a project plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-38" value="Develop a project plan" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-52" vertex="1">
           <mxGeometry y="87.47008547008545" width="155.78787878787878" height="34.58119658119658" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-39" value="Identify project stakeholders and communication plan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-52">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-39" value="Identify project stakeholders and communication plan" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-52" vertex="1">
           <mxGeometry y="131.20512820512818" width="155.78787878787878" height="34.58119658119658" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-64" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-64" value="" style="group" connectable="0" vertex="1" parent="1">
           <mxGeometry x="640.5" y="165" width="190.5" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-58" value="" style="group" vertex="1" connectable="0" parent="Kyetm04AOQO5NOnXj7u3-64">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-58" value="" style="group" connectable="0" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-64">
           <mxGeometry width="189.52307692307693" height="158.13953488372093" as="geometry" />
         </mxCell>
         <mxCell id="10" value="Evaluate the machine learning models’ performance using appropriate metrics" style="whiteSpace=wrap;strokeWidth=2;" parent="Kyetm04AOQO5NOnXj7u3-58" vertex="1">
@@ -141,7 +141,7 @@
         <mxCell id="Kyetm04AOQO5NOnXj7u3-57" value="Tune model hyperparameters for better performance" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-58">
           <mxGeometry y="119.734219269103" width="189.52307692307693" height="38.40531561461794" as="geometry" />
         </mxCell>
-        <mxCell id="Kyetm04AOQO5NOnXj7u3-60" value="" style="group" vertex="1" connectable="0" parent="Kyetm04AOQO5NOnXj7u3-64">
+        <mxCell id="Kyetm04AOQO5NOnXj7u3-60" value="" style="group" connectable="0" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-64">
           <mxGeometry x="0.9769230769230769" y="181.86046511627907" width="189.52307692307693" height="158.13953488372093" as="geometry" />
         </mxCell>
         <mxCell id="Kyetm04AOQO5NOnXj7u3-61" value="Evaluate the success of the project based on the defined objectives" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="Kyetm04AOQO5NOnXj7u3-60">
@@ -159,6 +159,9 @@
             <mxPoint x="116" y="524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xBIqd5sjCe5CvqbG3dPH-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBIqd5sjCe5CvqbG3dPH-22" target="xBIqd5sjCe5CvqbG3dPH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Kyetm04AOQO5NOnXj7u3-67" value="Conduct lessons learned review" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640.496923076923" y="523.0004651162791" width="189.52307692307693" height="38.40531561461794" as="geometry" />
         </mxCell>
@@ -172,27 +175,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBIqd5sjCe5CvqbG3dPH-24" value="Write literature review that summarises the key findings from the literature" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="739" width="122" height="66" as="geometry" />
+          <mxGeometry x="56.75" y="709.53" width="122" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="xBIqd5sjCe5CvqbG3dPH-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xBIqd5sjCe5CvqbG3dPH-25">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="117.75" y="739" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="xBIqd5sjCe5CvqbG3dPH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBIqd5sjCe5CvqbG3dPH-25" target="xBIqd5sjCe5CvqbG3dPH-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBIqd5sjCe5CvqbG3dPH-25" value="Analyse and synthesise findings" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="56.75" y="625" width="122" height="51" as="geometry" />
-        </mxCell>
-        <mxCell id="xBIqd5sjCe5CvqbG3dPH-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="114" y="575" as="sourcePoint" />
-            <mxPoint x="114.5" y="627" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="56.75" y="618" width="122" height="51" as="geometry" />
         </mxCell>
         <mxCell id="xBIqd5sjCe5CvqbG3dPH-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xBIqd5sjCe5CvqbG3dPH-30" target="xBIqd5sjCe5CvqbG3dPH-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xBIqd5sjCe5CvqbG3dPH-30" value="Citations and references are properly formatted" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="845" width="122" height="66" as="geometry" />
+          <mxGeometry x="56.75" y="814" width="122" height="66" as="geometry" />
         </mxCell>
         <mxCell id="xBIqd5sjCe5CvqbG3dPH-34" value="Finalise literature review" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="55" y="951" width="122" height="66" as="geometry" />
