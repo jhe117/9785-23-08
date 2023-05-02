@@ -141,7 +141,7 @@ We need Q1 journals and A* conferences only.
 Next meeting: 18 April 2pm, LAST MEETING! 
 
 
-#6. 18/04/2023 Tuesday W11
+#7. 18/04/2023 Tuesday W11
 
 Participants: Dr. Mohammad, All team members
 
@@ -156,5 +156,52 @@ Participants: Dr. Mohammad, All team members
 - Complete the draft till 11:59pm on 27th/4, including poster + final report + presentation, then have enough time to make changes
 
 
+#8. 01/05/2023 Monday W12
+
+Participants: James, All team members
+
+Report: 
+-	Use past tense
+-	Evaluation method, more details
+-	7.1 just summary some key interesting findings from specific literatures. Eg. 2-3 papers perform different but well, reference resources back to the background
+-	7.2 more specific, found wt did wt, attach pictures from code 
+-	7.3 start from ML algorithm introduction
+-	9 what we did wrong, how we improved, eg. 2 models do not work in scope. dataset issue is not our issue
+-	9 should be moved to 11 (future work)
+-	12 user guides, tutorial
+-	Can add an abstract
+
+Poster & PPT: 
+-	Show key findings 
+-	Same massages
+-	More graphs in PPT, audience focus on the presenter
+-	Text readable 
+
+Poster: 
+-	A0 size, bigger & less text, figures size is ok
+-	Background: less, result & key findings combined
+-	Less reference
+
+Presentation: 
+-	03/05/2023 (Wednesday) LOCATION 6C12 
+-	Interesting
+-	Test the room in advance 
+-	Add transition between presenters
+-	2 mentors maybe, 5~10, 20 max
+
+PPT: 
+-	Title with bolder
+-	Subtitles occupy less space
+-	Nice, slow, clear
+-	Make subtitles changed to attract, templete uniform
+-	Less pictures in one page, add Title for every table & # Figure 1…  & corresponding text box 
+o	Could talk more, but not showing all tables
+o	Year may not affect the result a lot
+-	Should know our content, answer the questions positively
+o	“that’s interesting & we’ll try it later”
+-	Models: not write a whole decryption (can talk, assume audience know the basic concepts), show different points
+-	Evaluation: put the interesting table in the MIDDLE, less text, small good? Big good? Use colours to show difference 
+-	The best model: looks good, show BENEFIT immediately 
+-	Limit & future, suggest & conclude - combine
 
 
